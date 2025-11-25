@@ -14,7 +14,7 @@ namespace Task_1
             acc.Deposit(500);
             Console.WriteLine("Balance after deposit: " + acc.Balance);
 
-            acc.Withdraw(3000);
+            acc.Withdraw(300);
             Console.WriteLine("Balance after withdrawal: " + acc.Balance);
         }
     }
