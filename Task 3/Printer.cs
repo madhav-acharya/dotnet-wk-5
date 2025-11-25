@@ -4,19 +4,19 @@ public class Printer
 {
     public void Print(string message)
     {
-        Console.WriteLine("Message: " + message);
+        System.Console.WriteLine("Message: " + message);
     }
 
     public void Print(int number)
     {
-        Console.WriteLine("Number: " + number);
+        System.Console.WriteLine("Number: " + number);
     }
 
     public void Print(string message, int count)
     {
         for (int i = 0; i < count; i++)
         {
-            Console.WriteLine($"[{i + 1}] {message}");
+            System.Console.WriteLine($"[{i + 1}] {message}");
         }
     }
 }
