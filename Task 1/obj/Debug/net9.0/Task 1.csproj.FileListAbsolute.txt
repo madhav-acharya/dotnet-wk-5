@@ -12,3 +12,4 @@
 /Users/mac/RiderProjects/dotnet/workshop-5/Task 1/obj/Debug/net9.0/Task 1.pdb
 /Users/mac/RiderProjects/dotnet/workshop-5/Task 1/obj/Debug/net9.0/Task 1.genruntimeconfig.cache
 /Users/mac/RiderProjects/dotnet/workshop-5/Task 1/obj/Debug/net9.0/ref/Task 1.dll
+/Users/mac/RiderProjects/dotnet/workshop-5/Task 1/obj/Debug/net9.0/Task 1.sourcelink.json
